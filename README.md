@@ -1,4 +1,5 @@
-![Logo](https://raw.githubusercontent.com/flabroo/4pm-ROW/master/app/assets/images/LogoROW.png)
+<img src="https://raw.githubusercontent.com/flabroo/4pm-ROW/master/app/assets/images/LogoROW.png" alt="logo" width="180"/>
+
 # Ramadhan on Wheels
 Introducing a web application designed to modernize and streamline the Ramadhan on Wheels program. Our innovative approach empowers beneficiaries by providing them with credits, which they can use to select and order the specific goods they need for their households. This personalized approach ensures that beneficiaries receive more of the items that are essential to their unique requirements, moving away from a one-size-fits-all package.
 
